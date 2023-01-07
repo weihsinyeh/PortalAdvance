@@ -9,4 +9,5 @@ Note: in the two worlds scene, you'll need to have Blender installed to view som
 
 ```
 Matrix4x4 m = red.localToworldMatrix & blue.worldToLocalMatrix * playerCam.localToworldMatrix;
+portalCam.SetPositionAndRotate (m.GetColumn(3), m.rotation);
 ```
