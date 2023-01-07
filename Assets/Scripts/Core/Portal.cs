@@ -57,6 +57,7 @@ public class Portal : MonoBehaviour {
             } else {
                 traveller.graphicsClone.transform.SetPositionAndRotation (m.GetColumn (3), m.rotation);
                 //UpdateSliceParams (traveller);
+                //處理點積來檢查traveller在portal的哪一側
                 traveller.previousOffsetFromPortal = offsetFromPortal;
             }
         }
