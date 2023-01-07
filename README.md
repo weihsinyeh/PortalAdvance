@@ -6,3 +6,7 @@ Note: in the two worlds scene, you'll need to have Blender installed to view som
 [Watch video](https://www.youtube.com/watch?v=cWpFZbjtSQg)
 
 ![Portals](https://raw.githubusercontent.com/SebLague/Images/master/Portals.png)
+
+```
+Matrix4x4 m = red.localToworldMatrix & blue.worldToLocalMatrix * playerCam.localToworldMatrix;
+```
