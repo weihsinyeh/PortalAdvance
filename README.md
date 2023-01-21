@@ -32,3 +32,15 @@ See another world by portal
 
 #### Reference
 [Blog](http://tomhulton.blogspot.com/2015/08/portal-rendering-with-offscreen-render.html)
+
+[The Perspective and Orthographic Projection Matrix](https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/projection-matrix-introduction.html)
+
+[Computing the Pixel Coordinates of a 3D Point](https://www.scratchapixel.com/lessons/3d-basic-rendering/computing-pixel-coordinates-of-3d-point/mathematics-computing-2d-coordinates-of-3d-points.html)
+
+[The Perspective and Orthographic Projection Matrix](https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/projection-matrix-GPU-rendering-pipeline-clipping.html)
+
+[The Cg Tutorial](https://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter04.html)
+
+[OpenGL](http://ogldev.atspace.co.uk/www/tutorial12/tutorial12.html)
+
+http://fabiensanglard.net/polygon_codec/
