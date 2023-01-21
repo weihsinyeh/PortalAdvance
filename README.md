@@ -30,3 +30,5 @@ Slice object by portal
 See another world by portal
 ![image](https://user-images.githubusercontent.com/90430653/211163970-304749f5-d403-40f1-8e29-c8d94e65791a.png)
 
+#### Reference
+[Blog](http://tomhulton.blogspot.com/2015/08/portal-rendering-with-offscreen-render.html)
