@@ -44,3 +44,9 @@ See another world by portal
 [OpenGL](http://ogldev.atspace.co.uk/www/tutorial12/tutorial12.html)
 
 http://fabiensanglard.net/polygon_codec/
+
+[[Shader筆記] 連你阿罵都能看得懂的Shader介紹](https://medium.com/ericzhan-publication/shader%E7%AD%86%E8%A8%98-shader-development-using-unity-01-b1cde1f23adf)
+
+[猫都能学会的Unity3D Shader入门指南（一)](https://onevcat.com/2013/07/shader-tutorial-1/)
+
+[3D图形学基础](https://zhuanlan.zhihu.com/p/27846162)
