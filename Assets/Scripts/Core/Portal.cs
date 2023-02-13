@@ -85,6 +85,7 @@ public class Portal : MonoBehaviour {
         var renderPositions = new Vector3[recursionLimit];
         var renderRotations = new Quaternion[recursionLimit];
 
+       //處理遞迴的效果
         int startIndex = 0;
         portalCam.projectionMatrix = playerCam.projectionMatrix;
         for (int i = 0; i < recursionLimit; i++) {
