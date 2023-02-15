@@ -110,6 +110,7 @@ public class Portal : MonoBehaviour {
 
         for (int i = startIndex; i < recursionLimit; i++) {
             portalCam.transform.SetPositionAndRotation (renderPositions[i], renderRotations[i]);
+            //順序
             SetNearClipPlane ();
             HandleClipping ();
             portalCam.Render ();
@@ -148,7 +149,8 @@ public class Portal : MonoBehaviour {
             bool camSameSideAsClone = linkedPortal.SideOfPortal (portalCamPos) == cloneSideOfLinkedPortal;
             if (camSameSideAsClone) {
                 traveller.SetSliceOffsetDst (screenThickness, true);
-            } else {
+            } 
+            else {
                 traveller.SetSliceOffsetDst (-screenThickness, true);
             }
         }
